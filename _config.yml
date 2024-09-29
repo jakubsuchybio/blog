@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Interested in smart house, Internet of Things (IoT) and new technologies as well as being an open-source enthusiast.
   Goal is to work with medical software, Internet of Things, game development or something meaningful.'
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "blog" # the subpath of your site, e.g. /blog
 url: "jakubsuchybio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jakubsuchybio
 github_username:  jakubsuchybio
