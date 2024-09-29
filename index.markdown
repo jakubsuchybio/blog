@@ -6,7 +6,10 @@ layout: default
 
 
 {% for post in site.posts %}
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+<h2><a href="{{ site.baseurl }}{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 <p>{{ site.url }} - Site URL<br></p>
 <p>{{ site.baseurl }} - Site Baseurl<br></p>
 <p>{{ post.url }} - Post URL<br></p>
