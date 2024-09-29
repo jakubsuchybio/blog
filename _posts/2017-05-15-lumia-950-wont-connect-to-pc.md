@@ -4,8 +4,7 @@ author: 'Jakub Suchy'
 date: '2017-05-15T06:00:59+02:00'
 layout: post
 permalink: /2017/05/15/lumia-950-wont-connect-to-pc/
-categories:
-    - Personal
+categories: ["Personal"]
 ---
 
 I don’t know how long has it been, that my phone (Lumia 950) wouldn’t connect to my PC. But one day I really needed to copy some photos from my phone (Lumia 950) to my PC. And that damn phone still just wouldn’t connect! So I started my investigation in Device Manager, where there was an Unknown Device of type “MTP Device”. After trying to update that driver I got this:

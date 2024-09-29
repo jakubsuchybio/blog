@@ -4,8 +4,7 @@ author: 'Jakub Suchy'
 date: '2017-08-01T20:48:59+02:00'
 layout: post
 permalink: /2017/08/01/beware-of-localhost/
-categories:
-    - Personal
+categories: ["Personal"]
 ---
 
 One day at work we encountered odd bug with our application. It was Windows Service that was client/server for TCP/IP connections.
