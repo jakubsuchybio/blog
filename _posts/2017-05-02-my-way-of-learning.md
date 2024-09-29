@@ -1,10 +1,7 @@
 ---
-id: 90
 title: 'My way of learning'
 date: '2017-05-02T10:00:44+02:00'
-author: 'Jakub Suchy'
 layout: post
-guid: 'http://wordpress.jakubsuchy.com/?p=90'
 permalink: /2017/05/02/my-way-of-learning/
 categories:
     - Personal

@@ -1,10 +1,7 @@
 ---
-id: 109
 title: 'Youtube 1.25x speed lagging problem'
 date: '2017-05-08T06:00:58+02:00'
-author: 'Jakub Suchy'
 layout: post
-guid: 'http://jakubsuchy.com/?p=109'
 permalink: /2017/05/08/youtube-1-25x-speed-lagging-problem/
 categories:
     - Personal

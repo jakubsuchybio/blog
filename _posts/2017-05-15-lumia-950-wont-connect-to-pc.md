@@ -1,10 +1,7 @@
 ---
-id: 114
 title: 'Lumia 950 won&#8217;t connect to PC'
 date: '2017-05-15T06:00:59+02:00'
-author: 'Jakub Suchy'
 layout: post
-guid: 'http://jakubsuchy.com/?p=114'
 permalink: /2017/05/15/lumia-950-wont-connect-to-pc/
 categories:
     - Personal

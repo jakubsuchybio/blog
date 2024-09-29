@@ -1,10 +1,7 @@
 ---
-id: 124
 title: 'Beware of localhost'
 date: '2017-08-01T20:48:59+02:00'
-author: 'Jakub Suchy'
 layout: post
-guid: 'http://jakubsuchy.com/?p=124'
 permalink: /2017/08/01/beware-of-localhost/
 categories:
     - Personal

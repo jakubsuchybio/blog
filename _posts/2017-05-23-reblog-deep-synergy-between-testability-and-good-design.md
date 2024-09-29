@@ -1,10 +1,7 @@
 ---
-id: 120
 title: 'Reblog: Deep Synergy Between Testability and Good Design'
 date: '2017-05-23T06:30:02+02:00'
-author: 'Jakub Suchy'
 layout: post
-guid: 'http://jakubsuchy.com/?p=120'
 permalink: /2017/05/23/reblog-deep-synergy-between-testability-and-good-design/
 categories:
     - Personal

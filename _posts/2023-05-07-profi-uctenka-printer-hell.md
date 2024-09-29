@@ -1,11 +1,8 @@
 ---
-id: 129
 title: 'Profi Účtenka Printer hell'
 date: '2023-05-07T12:23:32+02:00'
-author: 'Jakub Suchy'
 layout: post
-guid: 'https://jakubsuchy.com/?p=129'
-permalink: /2023/05/07/profi-uctenka-printer-hell/
+~~~~permalink: /2023/05/07/profi-uctenka-printer-hell/
 categories:
     - Personal
 tags:
