@@ -1,5 +1,6 @@
 ---
 title: 'Youtube 1.25x speed lagging problem'
+author: 'Jakub Suchy'
 date: '2017-05-08T06:00:58+02:00'
 layout: post
 permalink: /2017/05/08/youtube-1-25x-speed-lagging-problem/

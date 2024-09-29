@@ -1,5 +1,6 @@
 ---
 title: 'My way of learning'
+author: 'Jakub Suchy'
 date: '2017-05-02T10:00:44+02:00'
 layout: post
 permalink: /2017/05/02/my-way-of-learning/

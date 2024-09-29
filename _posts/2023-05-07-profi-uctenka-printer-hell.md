@@ -1,19 +1,11 @@
 ---
 title: 'Profi Účtenka Printer hell'
+author: 'Jakub Suchy'
 date: '2023-05-07T12:23:32+02:00'
 layout: post
-~~~~permalink: /2023/05/07/profi-uctenka-printer-hell/
-categories:
-    - Personal
-tags:
-    - 'C#'
-    - CheckNetIsolation.exe
-    - dnSpy
-    - Printer
-    - 'Profi Uctenka'
-    - TCP/IP
-    - 'Windows Service'
-    - Wireshark
+permalink: /2023/05/07/profi-uctenka-printer-hell/
+categories: ["Personal"]
+tags: ["C#", "CheckNetIsolation.exe", "dnSpy", "Printer", "Profi Uctenka", "TCP/IP", "Windows Service", "Wireshark"]
 ---
 
 I bought a new notebook for my wife for her business, tried to setup the already working Profi Uctenkovka with the printer from her old notebook, but it wouldn’t work.

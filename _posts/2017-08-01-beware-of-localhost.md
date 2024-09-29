@@ -1,5 +1,6 @@
 ---
 title: 'Beware of localhost'
+author: 'Jakub Suchy'
 date: '2017-08-01T20:48:59+02:00'
 layout: post
 permalink: /2017/08/01/beware-of-localhost/

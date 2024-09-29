@@ -1,5 +1,6 @@
 ---
 title: 'Lumia 950 won&#8217;t connect to PC'
+author: 'Jakub Suchy'
 date: '2017-05-15T06:00:59+02:00'
 layout: post
 permalink: /2017/05/15/lumia-950-wont-connect-to-pc/
