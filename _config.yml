@@ -6,13 +6,25 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.jakubsuchy.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jakubsuchybio
-github_username:  jakubsuchybio
-linkedin_username: biojakub
 
+color-scheme: auto
+logo: /assets/img/logo.jpg
+google_analytics: G-VHJQ3WDXLM
+
+sidebar:
+  - name: Github
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/jakubsuchybio
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/jakubsuchybio/
+  - name: Xitter
+    icon: <i class="fa-brands fa-twitter"></i>
+    link: https://x.com/jakubsuchybio
+    
 # Build settings
 #theme: minima
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: BDHU/minimalist
 #theme: jekyll-theme-minimal
 plugins:
   - jekyll-remote-theme

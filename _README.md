@@ -1,4 +1,4 @@
 # To debug locally 
 ```powershell
-bundle exec jekyll serve --baseurl=""
+bundle exec jekyll serve
 ```
