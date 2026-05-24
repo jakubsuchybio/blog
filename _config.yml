@@ -21,11 +21,14 @@ sidebar:
   - name: X
     icon: <i class="fa-brands fa-twitter"></i>
     link: https://x.com/jakubsuchybio
-    
+
 # Build settings
 #theme: minima
 remote_theme: BDHU/minimalist
 #theme: jekyll-theme-minimal
+include:
+  - .well-known
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
